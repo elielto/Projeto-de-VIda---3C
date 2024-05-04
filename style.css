@@ -6,3 +6,16 @@
     --botão-inativo:rgba(58, 55, 94, 0.5);
     --texto-de-fundo:rgba(58, 55, 94, 0.3);
 }
+
+boty{
+background-color: var(--cor-de-fundo
+color:var(var(--branco));
+font-family: 'chakra Pech', sans-serif;
+
+}
+
+.conteudo-principal{
+    display: flex;
+    flex-direction: column;
+    
+}
