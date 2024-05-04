@@ -8,14 +8,22 @@
 }
 
 boty{
-background-color: var(--cor-de-fundo
-color:var(var(--branco));
-font-family: 'chakra Pech', sans-serif;
-
+    background-color: var(--cor-de-fundo
+    color:var(var(--branco));
+    font-family: 'chakra Petch', sans-serif;
 }
 
-.conteudo-principal{
+.conteudo-principal{ 
     display: flex;
     flex-direction: column;
-    
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.titulo-principal{
+    text-align: left;
+    width: 100%;
 }
